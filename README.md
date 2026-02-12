@@ -10,6 +10,7 @@ The goal of this project is to support data-driven decision-making for business 
 🎯 Objectives
 
 Perform exploratory data analysis (EDA) on sales data
+
 Identify trends, seasonality, and sales patterns
 Analyze performance by product, region, and time
 Build forecasting models to predict future sales
