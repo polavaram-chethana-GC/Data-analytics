@@ -31,3 +31,108 @@ Scikit-learn / Statsmodels – Forecasting Models
 Jupyter Notebook
 
 Power BI / Tableau (if used)
+📂 Project Structure
+Sales-Analysis-Forecasting/
+│
+├── data/                 # Raw and cleaned datasets
+├── notebooks/            # Jupyter notebooks
+├── models/               # Saved forecasting models
+├── visuals/              # Generated graphs and charts
+├── dashboard/            # Power BI / Tableau files (if any)
+└── README.md
+
+
+📊 Exploratory Data Analysis (EDA)
+The following analysis was performed:
+
+
+Monthly and yearly sales trends
+
+
+Top-selling products
+
+
+Region-wise sales performance
+
+
+Profit analysis
+
+
+Seasonal patterns
+
+
+Visualizations include:
+
+
+Line charts
+
+
+Bar graphs
+
+
+Heatmaps
+
+
+Trend analysis plots
+
+
+
+🔮 Sales Forecasting
+Different forecasting techniques were applied such as:
+
+
+Moving Average
+
+
+ARIMA
+
+
+Linear Regression
+
+
+Time Series Forecasting
+
+
+Model performance was evaluated using:
+
+
+MAE (Mean Absolute Error)
+
+
+RMSE (Root Mean Squared Error)
+
+
+R² Score
+
+
+
+📈 Key Insights
+
+
+Identified peak sales months and seasonal demand
+
+
+Found high-performing regions and products
+
+
+Detected sales growth trends over time
+
+
+Generated future sales predictions to assist business planning
+
+
+🚀 Future Improvements
+
+
+Deploy model using Flask/Streamlit
+
+
+Add real-time dashboard
+
+
+Improve model accuracy with advanced ML models
+
+
+Automate data pipeline
+
+
