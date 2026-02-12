@@ -21,6 +21,7 @@ Build forecasting models to predict future sales
 
 Visualize insights using interactive dashboards
 
+
 **🛠️ Technologies Used**
 
 Python
@@ -34,6 +35,7 @@ Scikit-learn / Statsmodels – Forecasting Models
 Google Colab
 
 Power BI
+
 
 **📂 Project Structure**
 Sales-Analysis-Forecasting/
@@ -52,6 +54,7 @@ Sales-Analysis-Forecasting/
 └── README.md
 
 
+
 **📊 Exploratory Data Analysis (EDA)**
 
 The following analysis was performed:
@@ -67,7 +70,6 @@ Seasonal patterns
 
 **Visualizations include:**
 
-
 Line charts
 
 Bar graphs
@@ -76,13 +78,10 @@ Heatmaps
 
 Trend analysis plots
 
+
 **🔮 Sales Forecasting**
 
 Different forecasting techniques were applied such as:
-
-Moving Average
-
-ARIMA
 
 Linear Regression
 
@@ -94,8 +93,8 @@ RMSE (Root Mean Squared Error)
 
 R² Score
 
-**📈 Key Insights**
 
+**📈 Key Insights**
 
 Identified peak sales months and seasonal demand
 
