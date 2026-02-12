@@ -8,7 +8,7 @@ This project focuses on analyzing historical sales data to identify trends, patt
 The goal of this project is to support data-driven decision-making for business growth and revenue optimization.
 
 
-🎯 Objectives
+**🎯 Objectives**
 
 Perform exploratory data analysis (EDA) on sales data
 
