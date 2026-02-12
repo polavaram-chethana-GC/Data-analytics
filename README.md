@@ -1,7 +1,7 @@
 # Data analytics project
-📊 Sales Analysis and Forecasting
+**📊 Sales Analysis and Forecasting**
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project focuses on analyzing historical sales data to identify trends, patterns, and key business insights. It also includes building forecasting models to predict future sales performance using data analytics and machine learning techniques.
 
@@ -20,7 +20,7 @@ Build forecasting models to predict future sales
 
 Visualize insights using interactive dashboards
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 Python
 
@@ -32,19 +32,27 @@ Scikit-learn / Statsmodels – Forecasting Models
 
 Google Colab
 
-Power BI / Tableau (if used)
-📂 Project Structure
+Power BI
+
+**📂 Project Structure**
 Sales-Analysis-Forecasting/
+
 │
 ├── data/                 # Raw and cleaned datasets
-├── notebooks/            # Jupyter notebooks
+
+├── notebooks/            # Google colab
+
 ├── models/               # Saved forecasting models
+
 ├── visuals/              # Generated graphs and charts
-├── dashboard/            # Power BI / Tableau files (if any)
+
+├── dashboard/            # Power BI
+
 └── README.md
 
 
-📊 Exploratory Data Analysis (EDA)
+**📊 Exploratory Data Analysis (EDA)**
+
 The following analysis was performed:
 
 
